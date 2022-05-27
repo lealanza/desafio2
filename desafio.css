@@ -1,0 +1,30 @@
+.cuerpo{
+    
+    width: 460px;
+    height: 491px;
+    background-color: #FFFFFF;
+    color: #151A41;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 15px;
+    border: 2px;
+    border-color: #151A41;
+    box-shadow: 0px 0px 20px lightgrey;
+}
+#pregunta{
+    color: #151A41;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#pregunta{
+    font-size: 25px;
+}
+
+.btnX{
+    margin-left: 420px;
+    margin-top: 15px;
+    border-radius: 50%;
+    border-style: hidden;
+    border-color: lightgrey;
+    background-color: transparent;
+}
